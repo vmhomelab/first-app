@@ -16,4 +16,4 @@ slint-build = "1.6"
 
 [package.metadata.bundle]
 name = "Textwiedergabe"
-identifier = "io.github.vmhomelab. first-rust-desktop-app"
+identifier = "io.github.vmhomelab.first-app"
